@@ -1,0 +1,16 @@
+C:\Users\Абзал\Desktop\HalykBank\simpleApp\bin\Debug\net5.0\simpleApp.exe
+C:\Users\Абзал\Desktop\HalykBank\simpleApp\bin\Debug\net5.0\simpleApp.deps.json
+C:\Users\Абзал\Desktop\HalykBank\simpleApp\bin\Debug\net5.0\simpleApp.runtimeconfig.json
+C:\Users\Абзал\Desktop\HalykBank\simpleApp\bin\Debug\net5.0\simpleApp.runtimeconfig.dev.json
+C:\Users\Абзал\Desktop\HalykBank\simpleApp\bin\Debug\net5.0\simpleApp.dll
+C:\Users\Абзал\Desktop\HalykBank\simpleApp\bin\Debug\net5.0\ref\simpleApp.dll
+C:\Users\Абзал\Desktop\HalykBank\simpleApp\bin\Debug\net5.0\simpleApp.pdb
+C:\Users\Абзал\Desktop\HalykBank\simpleApp\obj\Debug\net5.0\simpleApp.csproj.AssemblyReference.cache
+C:\Users\Абзал\Desktop\HalykBank\simpleApp\obj\Debug\net5.0\simpleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Абзал\Desktop\HalykBank\simpleApp\obj\Debug\net5.0\simpleApp.AssemblyInfoInputs.cache
+C:\Users\Абзал\Desktop\HalykBank\simpleApp\obj\Debug\net5.0\simpleApp.AssemblyInfo.cs
+C:\Users\Абзал\Desktop\HalykBank\simpleApp\obj\Debug\net5.0\simpleApp.csproj.CoreCompileInputs.cache
+C:\Users\Абзал\Desktop\HalykBank\simpleApp\obj\Debug\net5.0\simpleApp.dll
+C:\Users\Абзал\Desktop\HalykBank\simpleApp\obj\Debug\net5.0\ref\simpleApp.dll
+C:\Users\Абзал\Desktop\HalykBank\simpleApp\obj\Debug\net5.0\simpleApp.pdb
+C:\Users\Абзал\Desktop\HalykBank\simpleApp\obj\Debug\net5.0\simpleApp.genruntimeconfig.cache
